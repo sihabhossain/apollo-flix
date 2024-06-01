@@ -1,5 +1,5 @@
 {
-  "name": "batch-3-apollo-flix-conceptual-session",
+  "name": "apollo-flix",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/server.js",
