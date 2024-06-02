@@ -1,5 +1,6 @@
+import { MovieServices } from './movie.service';
 import { Request, Response } from "express";
-import { MovieServices } from "./movie.service";
+
 
 const createMovie = async (req: Request, res: Response) => {
   const movieData = req.body;
